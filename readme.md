@@ -1,68 +1,86 @@
-☕ Coffee Shop Sales Dashboard
+# ☕ Coffee Shop Sales Dashboard
+
 Welcome to the Coffee Shop Sales Dashboard project! This Excel-based dashboard provides an interactive and visually engaging way to monitor key metrics for a coffee shop's daily and monthly operations.
 
-![Dash view option 1](illustrations\color option 2.png)
+Colour option 1
+![Dash view option 1](illustrations/color%20option%202.png)
 
-📊 Project Overview
+Colour option 2
+![Dash view option 2](illustrations/color%20option%201.png)
+
+Colour option 3
+![Dash view option 3](illustrations/color%20option%203.png)
+
+Colour option 4
+![Dash view option 4](illustrations/color%20option%204.png)
+
+## 📊 Project Overview
+
 This dashboard was built using Microsoft Excel to analyze and visualize sales data from a coffee shop. It provides valuable insights into sales performance, popular products, customer behavior, and revenue trends.
 
-🧰 Tools Used
-Microsoft Excel 2021
+### 🧰 Tools Used
 
-Power Query (Data Cleaning & Transformation)
+- Microsoft Excel 2021
 
-Pivot Tables
+- Power Query (Data Cleaning & Transformation)
+![Powery Query view](illustrations\power%20query%20view.jpg)
 
-Slicers and Filters
+- Pivot Tables
 
-Charts (Bar, Pie, Line)
+- Slicers and Filters
 
-Conditional Formatting
+- Charts (Bar, Pie, Line)
 
-📌 Features
-✅ Dynamic filters by product type, date, time of day, and location
+- Conditional Formatting
 
-✅ Sales overview including total sales, quantity sold, and average price
+### 📌 Features
 
-✅ Top-selling products and least-performing items
+- ✅ Dynamic filters by product type, date, time of day, and location
 
-✅ Time-based analysis: Sales trends by hour, day, and month
+- ✅ Sales overview including total sales, quantity sold, and average price
 
-✅ Interactive visuals for real-time data slicing and dicing
+- ✅ Top-selling products and least-performing items
 
-📁 File Structure
-Coffe dashboard.xlsx – The main Excel file containing raw data, cleaned data via Power Query, and the final dashboard.
+- ✅ Time-based analysis: Sales trends by hour, day, and month
 
-🚀 How to Use
-Download or clone the repository.
+- ✅ Interactive visuals for real-time data slicing and dicing
 
-Open Coffe dashboard.xlsx in Excel (Excel 2016 or later recommended).
+### 📁 File Structure
 
-Use slicers or filters to interact with the dashboard and explore insights.
+- Coffe dashboard.xlsx – The main Excel file containing raw data, cleaned data via Power Query, and the final dashboard.
 
-Optionally, connect your own sales data following the same data structure to reuse the dashboard.
+### 🚀 How to Use
 
-🎯 Key Skills Demonstrated
-Data cleaning and transformation in Power Query
+- Open Coffe dashboard.xlsx in Excel (Excel 2016 or later recommended).
 
-Dashboard design and user experience in Excel
+- Use slicers or filters to interact with the dashboard and explore insights.
 
-Data analysis and KPI reporting
+- Optionally, connect your own sales data following the same data structure to reuse the dashboard.
 
-Effective data visualization for business decisions
+### 🎯 Key Skills Demonstrated
 
-📈 Sample Use Cases
-Track daily or monthly sales performance
+- Data cleaning and transformation in Power Query
 
-Identify best-selling coffee types or locations
+- Dashboard design and user experience in Excel
 
-Understand peak hours and customer preferences
+- Data analysis and KPI reporting
 
-📬 Contact
+- Effective data visualization for business decisions
+
+### 📈 Sample Use Cases
+
+- Track daily or monthly sales performance
+
+- Identify best-selling coffee types or locations
+
+- Understand peak hours and customer preferences
+
+### 📬 Contact
+
 For any questions or collaborations, feel free to reach out!
 
-Name: [Your Name]
-Email: [Your Email]
-LinkedIn: [Your LinkedIn URL]
-Portfolio: [Link to Portfolio if available]
+- Name: Mugabi Trevor L
 
+- Email: Trevortravis91+Github.com
+
+- LinkedIn: [Mugabi Trevor](https://www.linkedin.com/in/mugabi-trevor)
